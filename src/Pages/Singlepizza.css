@@ -1,0 +1,53 @@
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  width: 55vw;
+  height: 355px;
+  background-color: white;
+  justify-content: center;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  margin: 0px auto;
+  border-radius: 10px;
+}
+.demo {
+  font-size: 18px;
+  border-radius: 10px;
+  color: black;
+  background-color: white;
+  margin-top: 20px;
+  border: 3px solid orangered;
+  cursor: pointer;
+  padding: 4px 19px 7px 17px;
+}
+
+.flexbox-image img {
+  height: 355px;
+}
+.flexbox-data {
+  width: 100%;
+
+  text-align: center;
+}
+.flexbox-data h1 {
+  font-size: 62px;
+}
+.flexbox-data h3 {
+  line-height: 54px;
+  text-align: center;
+}
+.flexbox-data button {
+  cursor: pointer;
+  padding: 11px;
+  background-color: orangered;
+  border-radius: 20px;
+  border: 1px;
+  color: white;
+}
+.flexbox-button {
+  display: flex;
+  justify-content: space-between;
+}
+.flexbox-button p {
+  font-size: 31px;
+}

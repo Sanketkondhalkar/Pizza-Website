@@ -1,0 +1,87 @@
+.parent {
+  display: flex;
+  margin-top: 70px;
+  height: auto;
+  width: 85vw;
+  margin: 10px auto;
+  flex-wrap: wrap;
+}
+.child {
+  display: flex;
+  height: 39px;
+  width: 100%;
+  margin: 8px 0 3px 0;
+}
+@media (min-width: 1200px) {
+  .h2,
+  h2 {
+    font-size: 1rem;
+  }
+}
+.buttonss {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.btn1 {
+  padding: 21px;
+  font-size: 18px;
+  border-radius: 10px;
+  color: white;
+  background-color: orangered;
+
+  border: none;
+  cursor: pointer;
+}
+
+.price {
+  display: flex;
+  align-items: center;
+}
+.delete {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.imagedata {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+}
+.imagedata img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+.btn1 {
+  padding: 7px;
+  background-color: orangered;
+  color: white;
+  border: 1px solid #ff4500;
+  font-weight: 100;
+}
+.para {
+  padding: 0 18px 0 18px;
+}
+
+.delete button {
+  padding: 10px;
+  padding: 7px;
+  background-color: orangered;
+  color: white;
+  border: 1px solid #ff4500;
+}
+.demo1 {
+  width: 100vw;
+  height: 88vh;
+}
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 10px;
+  color: white;
+  background-color: orangered;
+  margin-top: 20px;
+  border: none;
+  cursor: pointer;
+}
