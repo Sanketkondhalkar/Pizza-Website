@@ -1,70 +1,15 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# OUTPUT WINDOW FOR DESKTOP:
+# LOGIN AND REGISTER PAGE:
+![Screenshot (17)](https://user-images.githubusercontent.com/37376835/202169871-49dba8de-5c97-49f6-815a-0f2899b0b634.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/37376835/202169902-c264843a-ffc4-4012-80ba-b3fd7b6c642d.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/37376835/202169960-570588fe-3f59-49f9-8400-f03fb55f6069.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/37376835/202170037-93e0cd61-cec8-471a-bcaa-f5458bb75a3f.png)
+# HOMEPAGE:
+![Screenshot (1)](https://user-images.githubusercontent.com/37376835/202170715-243e06d1-5ea4-4778-a134-2c1e6dc033ce.png)
+# PRODUCT PAGE:
+![Screenshot (3)](https://user-images.githubusercontent.com/37376835/202171019-66202f37-76e5-4273-9f42-e8fb36ab274a.png)
+# 
+![Screenshot (22)](https://user-images.githubusercontent.com/37376835/202170052-a62da98b-7ba5-49d7-b2f0-0bc8bd03c60b.png)
+# CARTPAGE
+![Screenshot (23)](https://user-images.githubusercontent.com/37376835/202170080-fc53978e-bcd4-4bb1-b5e8-942ebac8f9a1.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/37376835/202170094-5c457055-0b3e-4870-8cd1-fd379df4383b.png)
