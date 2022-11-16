@@ -14,7 +14,7 @@
 
 
 
-# HOMEPAGE:
+# HOME PAGE:
 
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/37376835/202170715-243e06d1-5ea4-4778-a134-2c1e6dc033ce.png)
