@@ -10,6 +10,6 @@
 ![Screenshot (3)](https://user-images.githubusercontent.com/37376835/202171019-66202f37-76e5-4273-9f42-e8fb36ab274a.png)
 # 
 ![Screenshot (22)](https://user-images.githubusercontent.com/37376835/202170052-a62da98b-7ba5-49d7-b2f0-0bc8bd03c60b.png)
-# CARTPAGE
+# CART PAGE:
 ![Screenshot (23)](https://user-images.githubusercontent.com/37376835/202170080-fc53978e-bcd4-4bb1-b5e8-942ebac8f9a1.png)
 ![Screenshot (24)](https://user-images.githubusercontent.com/37376835/202170094-5c457055-0b3e-4870-8cd1-fd379df4383b.png)
